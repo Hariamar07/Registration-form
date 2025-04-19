@@ -14,4 +14,4 @@ CSS3 – For styling the form and layout
 JavaScript – For validating form inputs
 
 🚀livelink
-[ https://github.com/Hariamar07/Registration-form.git ]
+[  https://hariamar07.github.io/Registration-form/ ]
